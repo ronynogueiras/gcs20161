@@ -1,10 +1,12 @@
-Nome artefato: DocumentoRonyNogueira.txtAltere linhas já existentes 
-Nome do(a) autor(a): Rony Nogueira
-Inclua novas linhas com conteúdo entre linhas existentes 
-Data de criação: 22/06/2016
-Hora de criação: 23:27:12
+Nome artefato: DocumentoRonyNogueira.txt
+Nome aqui tambï¿½m do(a) autor(a): Rony Nogueira Linha alterada
+Inclua novas linhas com conteï¿½do entre linhas existentes
+Data de criaï¿½ï¿½o: 22/06/2016
+Hora de criaï¿½ï¿½o: 23:27:12
 
+Inclua novas linhas no final do documento
 
-
-
+Inclua novas linhas no final do documento
 Inclua novas linhas no final do documento 
+
+Inclua novas linhas no final do documento
