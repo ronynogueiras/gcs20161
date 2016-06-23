@@ -1,4 +1,12 @@
 Nome artefato: DocumentoRonyNogueira.txt
-Nome do(a) autor(a): Rony Nogueira
+Nome aqui também do(a) autor(a): Rony Nogueira Linha alterada
+Inclua novas linhas com conteúdo entre linhas existentes
 Data de criação: 22/06/2016
 Hora de criação: 23:27:12
+
+Inclua novas linhas no final do documento
+
+Inclua novas linhas no final do documento
+
+
+Inclua novas linhas no final do documento
