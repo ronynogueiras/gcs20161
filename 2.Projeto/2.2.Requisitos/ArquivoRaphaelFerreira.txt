@@ -1,5 +1,6 @@
 Nome artefato: ArquivoRaphaelFerreira.txt
 Nome do(a) autor(a) da alteração: Raphael Ferreira
-Data da alteração: 22/06/2016
-Hora da alteração: 23:49:32
-
+Data da alteração: 23/06/2016
+Alteração entre as linhas
+Hora da alteração: 15:22:12
+Autor da alteração: Rony Nogueira
