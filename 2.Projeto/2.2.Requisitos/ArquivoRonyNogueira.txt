@@ -1,0 +1,5 @@
+Nome artefato: ArquivoRonyNogueira.txt
+Nome do(a) autor(a): Rony Nogueira S. Teles
+Data de criação: 23/06/2016
+Hora de criação: 15:27:24
+documento criado no ramo2
