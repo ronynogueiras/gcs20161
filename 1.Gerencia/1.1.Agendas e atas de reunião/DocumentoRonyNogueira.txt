@@ -1,8 +1,11 @@
 Nome artefato: DocumentoRonyNogueira.txt
-Nome do(a) autor(a): Rony Nogueira
-Data de criaÁ„o: 22/06/2016
-Hora de criaÁ„o: 18:06:40
+Nome do(a) autor(a): Rony Nogueira Silv√©rio Teles
+Data de cria√ß√£o: 22/06/2016
+Hora de cria√ß√£o: 18:06:40
 Nome artefato: .txt
-Nome do(a) autor(a) da alteraÁ„o: Raphael Ferreira
-Data da alteraÁ„o: 22/06/2016
-Hora da alteraÁ„o: 19:19:30 
+Nome do(a) autor(a) da altera√ß√£o: Raphael Ferreira
+Data da altera√ß√£o: 22/06/2016
+Hora da altera√ß√£o: 19:19:30 
+Nome do(a) autor(a) da altera√ß√£o: Rony Nogueira
+Data da altera√ß√£o: 23/06/2016
+Hora da altera√ß√£o: 15:15:46 
