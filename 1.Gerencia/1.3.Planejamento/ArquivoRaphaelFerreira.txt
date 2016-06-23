@@ -2,3 +2,7 @@ Nome artefato: ArquivoRaphaelFerreira.txt
 Nome do(a) autor(a): Raphael Ferreira
 Data de criação: 22/06/2016
 Hora de criação: 17:36:00
+Nome artefato: ArquivoRaphaelFerreira.txt
+Nome do autor da alteração: Rony Nogueira
+Data da alteração: 22/06/2016
+Hora da alteração: 23:21:45
